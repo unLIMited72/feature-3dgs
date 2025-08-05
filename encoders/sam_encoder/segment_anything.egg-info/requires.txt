@@ -1,13 +1,13 @@
 
 [all]
 matplotlib
-pycocotools
-opencv-python
 onnx
 onnxruntime
+opencv-python
+pycocotools
 
 [dev]
+black
 flake8
 isort
-black
 mypy
